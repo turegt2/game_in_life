@@ -1,0 +1,6 @@
+width 50
+height 20
+survive_min 2
+survive_max 3
+birth_min 3
+birth_max 3
